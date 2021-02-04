@@ -1,6 +1,3 @@
-
-> ConteMan can't stop.
-
 ![ContePaper](./ContePaper-P1-2021-02-01.png)
 
 <!--
