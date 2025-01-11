@@ -1,4 +1,4 @@
-More in [ConteWorld](https://isconte.com)
+Slow down, not so much to seize.
 
 <!--
 **ConteMan/ConteMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
